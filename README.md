@@ -22,7 +22,7 @@ Installation Steps
 3. Import the `ecot_library2.sql` file into phpMyAdmin.
 4. Update database credentials in `includes/db_connect.php`.
 5. Start Apache and MySQL from XAMPP.
-6. Open `http://localhost/ecot_library_system` in your browser.
+6. Open `http://localhost/ecot_library_system/Book-Registration/admin/try.php` in your browser.
 
 Database Structure
 
