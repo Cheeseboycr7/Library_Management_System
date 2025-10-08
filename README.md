@@ -13,8 +13,7 @@ Tech Stack
 
 - Backend: PHP (PDO)
 - Database: MySQL
-- Frontend: HTML, TailwindCSS, Bootstrap
-- Optional: Android (React Native or Java)
+- Frontend: HTML,js, Bootstrap
 
 Installation Steps
 
