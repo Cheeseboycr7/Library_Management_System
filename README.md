@@ -7,7 +7,7 @@ Features
 - Borrow and return books with automatic fine tracking
 - Book catalog with ISBN, Accession Number, and Author details
 - Reports for low stock, borrowed books, and commission
-- REST APIs for Android app integration
+
 
 Tech Stack
 
